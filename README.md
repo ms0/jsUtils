@@ -1,0 +1,14 @@
+# msUtils
+
+These are some JavaScript utilities.
+
+## Missing functions from Math
+- `sgn`
+- `expm1` and `log1p`
+- Hyperbolic Functions: `sinh`, `cosh`, `tanh`, `asinh`, `acosh`, `atanh`, `coshm1`, `acosh1p`
+
+## (de)Serialization of standard javascript datastructures, for use in cookies
+- `serialize`
+- `deserialize`
+- `parsestring`
+- `parse`
